@@ -44,6 +44,6 @@ Here are the combinations I've used:
   <tr>
     <td><tt>SHARED=1 MONOLITHIC=1 BUILD=release</tt></td>
 
-    <td>Build one big, dynamic release library.</td>
+    <td>Builds one big, dynamic release library.</td>
   </tr>
 </table>
