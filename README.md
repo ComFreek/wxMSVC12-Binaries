@@ -47,3 +47,9 @@ Here are the combinations I've used:
     <td>Builds one big, dynamic release library.</td>
   </tr>
 </table>
+
+
+License
+=======
+These binaries are under the same license as described on the wxWidgets website.
+See wxWindow.LICENSE and LGPL.LICENSE for more information.
